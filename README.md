@@ -5,7 +5,7 @@
 <div class="namecard">
   <h2>劉旭
   <span>(LIU HSU)</span>
-  </h2>
+  </h2>HI 大家好
   
   <h5>家裡蹲工程師</h5>
   <hr>
